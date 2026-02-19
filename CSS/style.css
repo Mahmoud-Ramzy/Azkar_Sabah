@@ -25,7 +25,7 @@ body {
     word-spacing: 4px;
     line-height: 100px;
     background: #e2eaed;
-    background: url(/Images/background.png);
+    background: url(../Images/background.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -34,7 +34,7 @@ body {
 
 @media (min-width: 992px) {
     body {
-        background-image: url(/Images/cardBackground.png);
+        background-image: url(../Images/cardBackground.png);
     }
 }
 
