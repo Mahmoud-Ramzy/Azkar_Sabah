@@ -167,7 +167,7 @@ nav ul {
 /* Nav finished */
 
 
-section {
+section, footer {
     background: white;
     display: flex;
     flex-direction: row;
@@ -188,7 +188,7 @@ section p {
 }
 
 /* CSS */
-section button {
+section button, footer {
     background: linear-gradient(92.88deg, #093aec21 9.16%, #170b6638 43.89%, #2b2b3d2a 64.72%);
     border: none;
     border-left: 3px solid rgba(27, 26, 26, 0.142);
@@ -279,13 +279,10 @@ footer {
     justify-content: center;
     align-items: center;
     font-size: 30px;
-    font-weight: 800px;
-    background: #604a9b;
+    font-weight: 900px;
     color: white;
     margin: 70px 0;
-    border-top: 1px solid gray;
-    border-radius: 20px;
-    padding: 20px;
+    padding: 30px 10px;
 }
 
 /* End footer */
