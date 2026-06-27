@@ -24,7 +24,7 @@ body {
     word-spacing: 4px;
     line-height: 1.7;
     min-height: 100vh;
-
+    background-color: #0e101c;
     background-image: url("../Images/background.jpg");
     background-repeat: no-repeat;
     background-size: cover;
